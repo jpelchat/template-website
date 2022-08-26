@@ -26,23 +26,23 @@ body {
 }
 
 .b1 {
-	animation: ani1 22s infinite; 
+	animation: ani1 25s infinite; 
 }
 
 .b2 {
-	animation: ani2 22s infinite; 
+	animation: ani2 25s infinite; 
 }
 
 .b3 {
-	animation: ani3 22s infinite; 
+	animation: ani3 25s infinite; 
 }
 
 .b4 {
-	animation: ani4 22s infinite; 
+	animation: ani4 25s infinite; 
 }
 
 .b5 {
-	animation: ani5 22s infinite; 
+	animation: ani5 25s infinite; 
 }
 
 @keyframes ani1 {
