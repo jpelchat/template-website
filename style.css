@@ -27,23 +27,19 @@ body {
 }
 
 .b1 {
-	animation: ani1 25s infinite; 
+	animation: ani1 30s infinite; 
 }
 
 .b2 {
-	animation: ani2 25s infinite; 
+	animation: ani2 30s infinite; 
 }
 
 .b3 {
-	animation: ani3 25s infinite; 
+	animation: ani3 30s infinite; 
 }
 
 .b4 {
-	animation: ani4 25s infinite; 
-}
-
-.b5 {
-	animation: ani5 25s infinite; 
+	animation: ani4 30s infinite; 
 }
 
 @keyframes ani1 {
